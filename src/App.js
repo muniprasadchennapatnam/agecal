@@ -16,7 +16,7 @@ let days = today.getDate() - dob.getDate();
 
 if (days < 0) {
   months--;
-
+days+=30
 }
 
 
