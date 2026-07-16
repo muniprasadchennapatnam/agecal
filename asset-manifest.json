@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/agecal/static/css/main.4296df52.css",
-    "main.js": "/agecal/static/js/main.e1c32eb3.js",
+    "main.js": "/agecal/static/js/main.3da48f05.js",
     "index.html": "/agecal/index.html",
     "main.4296df52.css.map": "/agecal/static/css/main.4296df52.css.map",
-    "main.e1c32eb3.js.map": "/agecal/static/js/main.e1c32eb3.js.map"
+    "main.3da48f05.js.map": "/agecal/static/js/main.3da48f05.js.map"
   },
   "entrypoints": [
     "static/css/main.4296df52.css",
-    "static/js/main.e1c32eb3.js"
+    "static/js/main.3da48f05.js"
   ]
 }
